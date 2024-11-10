@@ -5,19 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarishirfan" alt="aarishirfan" /></a> </p>
 
-- 🌱 I’m currently learning **automation and completing certificates to gain more knowledge about testing.**
+<p><strong>🌱</strong> I’m currently learning <strong>automation and completing certificates to gain more knowledge about testing.</strong></p>
 
-- 👨‍💻 All of my projects are available at [https://aarish-portfolio-eight.vercel.app/project](https://aarish-portfolio-eight.vercel.app/project)
+<p><strong>👨‍💻</strong> All of my projects are available at <a href="https://aarish-portfolio-eight.vercel.app/project" target="_blank">https://aarish-portfolio-eight.vercel.app/project</a></p>
 
-- 📝 I regularly write articles on [https://medium.com/@arishirfan98](https://medium.com/@arishirfan98)
+<p><strong>📝</strong> I regularly write articles on <a href="https://medium.com/@arishirfan98" target="_blank">https://medium.com/@arishirfan98</a></p>
 
-- 💬 Ask me about **automation testing, test strategies or improving software quality.**
+<p><strong>💬</strong> Ask me about <strong>automation testing, test strategies, or improving software quality.</strong></p>
 
-- 📫 How to reach me **You can reach me via LinkedIn or email me at arishirfan98@gmail.com.**
+<p><strong>📫</strong> How to reach me: <strong>You can reach me via LinkedIn or email me at <a href="mailto:arishirfan98@gmail.com">arishirfan98@gmail.com</a>.</strong></p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aarishirfan/](https://www.linkedin.com/in/aarishirfan/)
+<p><strong>📄</strong> Know about my experiences: <a href="https://www.linkedin.com/in/aarishirfan/" target="_blank">https://www.linkedin.com/in/aarishirfan/</a></p>
 
-- ⚡ Fun fact **I love exploring new testing tools and techniques, but I also enjoy solving puzzles and logic games in my free time!**
+<p><strong>⚡</strong> Fun fact: <strong>I love exploring new testing tools and techniques, but I also enjoy solving puzzles and logic games in my free time!</strong></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
