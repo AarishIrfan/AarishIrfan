@@ -29,13 +29,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian/jira-icon.svg" alt="Jira" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Jira_logo.png" alt="Jira" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/MySQL_Logo.png" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Postman_Logo.png" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" alt="DBeaver" width="40" height="40"/>
@@ -59,6 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarishirfan&show_icons=true&locale=en&layout=compact" alt="aarishirfan" /></p>
