@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarishirfan&label=Profile%20views&color=0e75b6&style=flat" alt="aarishirfan" /> </p>
 
-<p><strong>🌱</strong> I’m currently learning <strong>automation and completing certificates to gain more knowledge about testing.</strong></p>
+<p><strong>🌱</strong> I’m currently enhancing my expertise in <strong> test automation while pursuing industry-recognized certifications to stay ahead in the world of software testing.</strong></p>
 
 <p><strong>👨‍💻</strong> All of my projects are available at <a href="https://aarish-portfolio-eight.vercel.app/project" target="_blank">https://aarish-portfolio-eight.vercel.app/project</a></p>
 
