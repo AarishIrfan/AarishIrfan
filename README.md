@@ -9,8 +9,6 @@
 
 <p><strong>👨‍💻</strong> All of my projects are available at <a href="https://aarish-portfolio-eight.vercel.app/project" target="_blank">https://aarish-portfolio-eight.vercel.app/project</a></p>
 
-<p><strong>📫</strong> How to reach me: <strong>You can reach me via LinkedIn or email me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arishirfan98@gmail.com" target="_blank">arishirfan98@gmail.com</a>.</strong></p>
-
 <p><strong>💬</strong> Ask me about <strong>automation testing, test strategies, or improving software quality.</strong></p>
 
 <p><strong>📫</strong> How to reach me: <strong>You can reach me via LinkedIn or email me at <a href="mailto:arishirfan98@gmail.com">arishirfan98@gmail.com</a>.</strong></p>
