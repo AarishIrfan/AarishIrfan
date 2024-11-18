@@ -5,7 +5,7 @@
 
 <p><strong>🌱</strong> I’m currently enhancing my expertise in <strong> test automation </strong>while pursuing industry-recognized certifications to stay ahead in the world of software testing.</p>
 
-<p><strong>👨‍💻</strong> All of my projects are available at <a href="https://aarish-portfolio-eight.vercel.app/project" target="_blank">https://aarish-portfolio-eight.vercel.app/project</a></p>
+<p><strong>👨‍💻</strong> All of my projects are available at <a href="https://aarish-portfolio-eight.vercel.app/project" target="_blank">my portfolio</a>.</p>
 
 <p><strong>💬</strong> Ask me about <strong>automation testing, test strategies or improving software quality.</strong></p>
 
