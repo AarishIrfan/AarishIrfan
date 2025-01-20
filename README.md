@@ -11,9 +11,9 @@
 
 <p><strong>💬</strong> Ask me about <strong>automation testing, test strategies or improving software quality.</strong></p>
 
-<p><strong>📫</strong> How to reach me: <strong>Connect on <a href="https://www.linkedin.com/in/aarishirfan/" target="_blank">LinkedIn</a> or email me at <a href="mailto:arishirfan98@gmail.com">arishirfan98@gmail.com</a>.</strong></p>
+<p><strong>📫</strong><strong>Connect on <a href="https://www.linkedin.com/in/aarishirfan/" target="_blank">LinkedIn</a> or email me at <a href="mailto:arishirfan98@gmail.com">arishirfan98@gmail.com</a>.</strong></p>
 
-<p><strong>⚡</strong> Fun fact: <strong>I love exploring new testing tools and techniques, but I also enjoy solving puzzles and logic games in my free time!</strong></p>
+<p><strong>⚡</strong><strong>I love exploring new testing tools and techniques, but I also enjoy solving puzzles and logic games in my free time!</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
