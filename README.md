@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarish Irfan</h1>
-<h3 align="center">Software Quality Assurance Engineer & Asana Ambassador</h3>
+<h3 align="center">Software Quality Assurance Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aarishirfan&label=Profile%20views&color=0e75b6&style=flat" alt="aarishirfan" />
