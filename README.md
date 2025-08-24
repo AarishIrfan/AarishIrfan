@@ -34,10 +34,7 @@
   </a>
 </p>
 
-<!-- Dynamic GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarishirfan&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aarishirfan&show_icons=true&locale=en" alt="GitHub Stats" />
