@@ -33,9 +33,3 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarishirfan&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
